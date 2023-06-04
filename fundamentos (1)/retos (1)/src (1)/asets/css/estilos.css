@@ -1,0 +1,53 @@
+head{
+    background-color: beige;
+}
+.encabezado{
+    background-color: #E3370B;
+    height:80px;
+    color:#F3FFE3;
+    display: flex;
+}
+.encabezado h3{
+    word-spacing: 10px;
+    margin: 20px;
+}
+.table .td{
+    margin-left: 30px;
+    margin-top: -10px;
+    margin:30px;
+}
+body{
+    background-color: #F3FFE3;
+}
+/*Reto 3*/
+.l1{
+    background-color: #71997C;
+    margin:80px;
+    margin-left: 450px;
+    width: 400px;
+}   
+.conv{
+    background-color: aqua;
+    margin-left: 160px;
+}
+/*Reto 6*/
+
+.feedback{
+    background-color: #69ebf0;
+    visibility: hidden;
+    opacity: 0;
+}
+.success{
+    border: 5px solid rgb(0, 255, 0);
+    }
+    
+.error{
+        border: 2px solid red;
+    }
+/*reto 3*/
+.imagenes{
+    background-color: #71997C;
+    display: flex;
+    display: block ;
+    margin:0px;
+}
